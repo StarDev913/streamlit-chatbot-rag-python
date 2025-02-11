@@ -25,7 +25,7 @@ The goal of this project is to develop a **domain-specific application** that co
 - pypdf
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/Faridghr/Simple-RAG-Chatbot.git`
+1. Clone the repository: `git clone https://github.com/smickey040404/streamlit-chatbot-rag-python.git`
 2. Navigate to the project directory: `cd Simple-RAG-Chatbot`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Set up your LLM.
