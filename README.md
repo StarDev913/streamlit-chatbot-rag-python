@@ -49,3 +49,10 @@ The goal of this project is to develop a **domain-specific application** that co
 5. After completing the account setup, you can add your Pinecone API Keys in a file called `.env`.
 
 
+
+
+
+
+
+
+
